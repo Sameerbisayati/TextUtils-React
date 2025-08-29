@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Textutil-React/static/css/main.3cfa350e.css",
-    "main.js": "/Textutil-React/static/js/main.aeb4d22c.js",
-    "static/js/453.a43495d3.chunk.js": "/Textutil-React/static/js/453.a43495d3.chunk.js",
-    "index.html": "/Textutil-React/index.html",
-    "main.3cfa350e.css.map": "/Textutil-React/static/css/main.3cfa350e.css.map",
-    "main.aeb4d22c.js.map": "/Textutil-React/static/js/main.aeb4d22c.js.map",
-    "453.a43495d3.chunk.js.map": "/Textutil-React/static/js/453.a43495d3.chunk.js.map"
+    "main.css": "/Textutils-React/static/css/main.3cfa350e.css",
+    "main.js": "/Textutils-React/static/js/main.e7a25fd6.js",
+    "static/js/453.a43495d3.chunk.js": "/Textutils-React/static/js/453.a43495d3.chunk.js",
+    "index.html": "/Textutils-React/index.html",
+    "main.3cfa350e.css.map": "/Textutils-React/static/css/main.3cfa350e.css.map",
+    "main.e7a25fd6.js.map": "/Textutils-React/static/js/main.e7a25fd6.js.map",
+    "453.a43495d3.chunk.js.map": "/Textutils-React/static/js/453.a43495d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cfa350e.css",
-    "static/js/main.aeb4d22c.js"
+    "static/js/main.e7a25fd6.js"
   ]
 }
